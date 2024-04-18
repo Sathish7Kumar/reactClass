@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+  }
+  
+  .hall {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .row {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  
+  .bench{
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  
